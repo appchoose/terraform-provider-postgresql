@@ -1,5 +1,11 @@
 ## Unreleased
 
+## 1.17.2 (November 8, 2022 - Update from parent repo)
+
+
+Allow to use content of service account key in `GOOGLE_CREDENTIALS` env var for Terraform Cloud  
+See [commit](https://github.com/appchoose/terraform-provider-postgresql/commit/a3da0ed64b5fd3b12b52fe356948f06645588f34)  
+This fix https://github.com/cyrilgdn/terraform-provider-postgresql/issues/138
 ## 1.17.1 (August 19, 2022)
 
 FIX:
